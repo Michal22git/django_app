@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41681f1e-1607-42bd-b4cf-676cef9e9263" name="Changes" comment="" />
+    <list default="true" id="11168fa3-a537-4a8a-88a7-0a83de1feb80" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,31 +11,29 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
-        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2VNP7czQCyFzBWZbL1bpAmauM7x" />
+  <component name="ProjectId" id="2VexFKvYPMY4tZO7350WRt5Q1VH" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="41681f1e-1607-42bd-b4cf-676cef9e9263" name="Changes" comment="" />
-      <created>1694673408602</created>
+      <changelist id="11168fa3-a537-4a8a-88a7-0a83de1feb80" name="Changes" comment="" />
+      <created>1695210248582</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1694673408602</updated>
+      <updated>1695210248582</updated>
     </task>
     <servers />
   </component>
